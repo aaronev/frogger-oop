@@ -1,0 +1,19 @@
+{
+  "name": "frogger-oop",
+  "version": "1.0.0",
+  "description": "frontend-nanodegree-arcade-game ===============================",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aaronev/frogger-oop.git"
+  },
+  "author": "Aaron Villanueva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/udacity/frontend-nanodegree-arcade-game/issues"
+  },
+  "homepage": "https://github.com/udacity/frontend-nanodegree-arcade-game#readme"
+}
