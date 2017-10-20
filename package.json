@@ -4,7 +4,8 @@
   "description": "frontend-nanodegree-arcade-game ===============================",
   "main": "app.js",
   "scripts": {
-    "test": "npm t"
+    "test": "npm t",
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/udacity/frontend-nanodegree-arcade-game/issues"
   },
-  "homepage": "https://github.com/udacity/frontend-nanodegree-arcade-game#readme"
+  "homepage": "https://github.com/udacity/frontend-nanodegree-arcade-game#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
